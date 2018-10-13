@@ -1634,6 +1634,11 @@ Noida
 - Bio: Software developer and musician
 - GitHub: [Moisés Ñañez](https://github.com/moisesnandres)
 
+#### Name: [Mohit Kumar](https://github.com/mohit4)
+- Place: Pune, Maharashtra, India
+- Bio: Software Developer and Technology enthusiast
+- GitHub: [mohit4](https://github.com/mohit4)
+
 #### Name: [Mon](https://github.com/mon555)
 - Place: Bangkok, Thailand
 - Bio: Interactive Developer
